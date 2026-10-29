@@ -1,0 +1,14 @@
+name: First Lock
+start: 3 0
+grid:
+g.....   ....
+.S....   ....
+......###.@.G
+....K.   ....
+         ....
+links:
+lock 1 1 red
+key 4 3 red
+gate 6 2 red
+gate 7 2 red
+gate 8 2 red

@@ -1,0 +1,13 @@
+name: Thin Ice
+start: 1 2
+grid:
+...
+...         ...
+....FF.FF.FF...
+...         ...
+             F
+             F
+             .
+             F
+             F
+            .G.

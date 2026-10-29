@@ -1,0 +1,10 @@
+name: Bridge Builder
+start: 0 3
+grid:
+....  ...  ....
+.o..bb.X.bb.G..
+....  ...  ....
+....  ...  ....
+links:
+switch 1 1 bridge 4 1 5 1
+switch 7 1 bridge 9 1 10 1

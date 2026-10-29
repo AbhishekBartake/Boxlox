@@ -1,0 +1,14 @@
+name: Lie Down
+start: 0 0
+grid:
+......
+.FFFF.   ...
+FF==FF###...
+.FFFF.   .G.
+...K..   ...
+links:
+lock 2 2 blue
+key 3 4 blue
+gate 6 2 blue
+gate 7 2 blue
+gate 8 2 blue

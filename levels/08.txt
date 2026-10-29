@@ -1,0 +1,24 @@
+name: Grand Lock
+start: 1 1
+grid:
+.....  ..F..  ..X.
+.....bb.FHF.  ....
+.....  .FHF.##....
+.S.o.  ..F..  ....
+       ....K  K...
+                b
+                b
+                #
+               ...
+               ...
+               .G.
+links:
+switch 3 3 bridge 5 1 6 1
+switch 16 0 bridge 16 5 16 6
+lock 9 1 green
+key 11 4 green
+gate 12 2 green
+gate 13 2 green
+lock 1 3 red
+key 14 4 red
+gate 16 7 red

@@ -1,0 +1,22 @@
+name: Two Keys
+start: 0 0
+grid:
+.....  ....
+..H..  ..S.
+..H..##....
+.....  ..@.
+....K  K...
+        #
+        #
+       ...
+       .G.
+       ..g
+links:
+lock 2 1 blue
+key 4 4 blue
+gate 5 2 blue
+gate 6 2 blue
+lock 9 1 red
+key 7 4 red
+gate 8 5 red
+gate 8 6 red
